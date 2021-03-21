@@ -1,6 +1,6 @@
 ### Hi. I'm Lesandro Ponciano :handshake:
 
-I research and teach Human-Computer Interaction, Cooperative Systems, Scientific Methodology, and other cool things in the area of Information Systems and Software Engineering.
+I research and teach Human-Computer Interaction, Cooperative Systems, Scientific Methodology, and other cool things in the areas of Information Systems and Software Engineering.
 
 Yes, you are right. I love both computers and people. I also love science and education :nerd_face:. 
 
