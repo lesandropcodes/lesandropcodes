@@ -1,15 +1,9 @@
-### Hi. I'm Lesandro Ponciano :handshake:
+### Sou Lesandro Ponciano :handshake:
 
-I research and teach Human-Computer Interaction, Cooperative Systems, Scientific Methodology, and other cool things in the areas of Information Systems and Software Engineering.
+Atualmente uso esta conta @lesandropcodes apenas para alguns testes. Minhas atividades atuais estão na conta [@lesandrop](https://github.com/lesandrop). Nela você encontrará informações mais relevantes.
 
-Yes, you are right. I love both computers and people. I also love science and education :nerd_face:. 
-
-You're right again.  Even after completing my PhD thesis in 2015, I still code, less often than I would like, but I code.
-
-- :speech_balloon: I’m [lesandrop](https://twitter.com/lesandrop) on Twitter
-- :school: I’m [0000-0002-5724-0094](https://orcid.org/0000-0002-5724-0094) on OrcID
-- :link: This is my [Google Scholar profile](https://scholar.google.com.br/citations?user=KS9I4P0AAAAJ).
-- :house: Find other information about me [here](https://lesandrop.github.io/site/)
+- :school: Se você está procurando minhas atividades científicas, veja no OrcID [0000-0002-5724-0094](https://orcid.org/0000-0002-5724-0094) ou no [Google Scholar](https://scholar.google.com.br/citations?user=KS9I4P0AAAAJ). Se está buscando informações sobre minha visão de ciência cidadã no Brasil, [este texto de opinião](https://lesandrop.github.io/site/opinion/Opiniao-CienciaCidadaNoBrasil-EstadoDeMinas.pdf) traz um resumo.
+- :house: Informações gerais sobre mim estão no meu [site](https://lesandrop.github.io/site/).
 
 <!--
 **lesandropcodes/lesandropcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
