@@ -1,9 +1,4 @@
-### Sou Lesandro Ponciano :handshake:
-
-Atualmente uso esta conta @lesandropcodes apenas para alguns testes. Minhas atividades atuais estão na conta [@lesandrop](https://github.com/lesandrop). Nela você encontrará informações mais relevantes.
-
-- :school: Se você está procurando minhas atividades científicas, veja no OrcID [0000-0002-5724-0094](https://orcid.org/0000-0002-5724-0094) ou no [Google Scholar](https://scholar.google.com.br/citations?user=KS9I4P0AAAAJ). Se está buscando informações sobre minha visão de ciência cidadã no Brasil, [este texto de opinião](https://lesandrop.github.io/site/opinion/Opiniao-CienciaCidadaNoBrasil-EstadoDeMinas.pdf) traz um resumo.
-- :house: Informações gerais sobre mim estão no meu [site](https://lesandrop.github.io/site/).
+Sou **Lesandro Ponciano**. Atualmente, uso esta conta @lesandropcodes apenas para alguns testes. Minhas atividades atuais estão na conta [@lesandrop](https://github.com/lesandrop). Nela você encontrará informações mais relevantes.eu [site](https://lesandrop.github.io/site/).
 
 <!--
 **lesandropcodes/lesandropcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
